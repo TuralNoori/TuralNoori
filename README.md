@@ -1,4 +1,4 @@
-##👋 Hi, I'm Tural Noori!
+# 👋 Hi, I'm Tural Noori!
 I am currently studying to become a Data Scientist, with a strong passion for data management and visualization. I enjoy working with SQL to handle and analyze data, as well as building insightful BI reports to drive decision-making. My goal is to transform raw data into meaningful insights through efficient and data-driven solutions.
 
 🔹 Skills: SQL, data management, BI reporting
