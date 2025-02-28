@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Machine Learning
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: iamtural@outlook.com
+
 <!--
 **TuralNoori/TuralNoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
